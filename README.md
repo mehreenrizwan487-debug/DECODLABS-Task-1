@@ -134,3 +134,86 @@ https://www.figma.com/file/XXXXXXXX
 UI/UX Designer
 
 Created as part of the DecodeLabs UI/UX Internship Task.
+# 🎨 UI/UX Design Project TASK 3
+
+## 📖 Project Overview
+
+This project is a modern UI/UX design created in Figma. It focuses on delivering a clean, user-friendly, and visually appealing interface while following core UX principles such as usability, navigation, and information hierarchy.
+
+---
+
+## 🎯 Project Objective
+
+The main objective of this project is to design an intuitive user interface that provides a smooth and engaging user experience.
+
+---
+
+## 🛠️ Design Tool
+
+- Figma
+
+---
+
+## ✨ Features
+
+- Modern UI Design
+- User-Centered Layout
+- Clean Visual Hierarchy
+- Responsive Design Concept
+- Consistent Typography
+- Organized Components
+- Interactive Prototype
+
+---
+
+## 📂 Deliverables
+
+- High-Fidelity UI Design
+- Prototype
+- Design Components
+- Design System
+
+---
+
+## 📸 Project Preview
+
+Upload your project preview image as **preview.png**.
+
+```text
+project/
+│
+├── README.md
+├── preview.png
+└── Design.fig
+```
+
+![Project Preview](preview.png)
+
+---
+
+## 🚀 Figma Design
+
+View the complete Figma project here:
+
+**https://www.figma.com/design/BVdVX4T4P9FTvJz7w2h2HA/?node-id=53-642&t=Vs0G2kDMmnGN1VcA-1**
+
+---
+
+## 📚 Learning Outcomes
+
+- UI/UX Design Process
+- Wireframing & Prototyping
+- User-Centered Design
+- Information Hierarchy
+- Visual Design Principles
+- Design Consistency
+
+---
+
+## 👩‍💻 Author
+
+**Mehreen**
+
+UI/UX Designer
+
+Created as part of my UI/UX Design Practice and Internship Projects.
