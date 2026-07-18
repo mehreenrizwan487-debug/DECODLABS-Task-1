@@ -29,7 +29,9 @@ This research helped identify the needs, challenges, and motivations of busy pro
 **Mehreen**  
 UI/UX Designer | Graphic Designer
 
-# 🛒 Low-Fidelity E-Commerce Homepage Wireframe
+
+# 🛒DECODELABS TASK 3
+Low-Fidelity E-Commerce Homepage Wireframe
 
 ## 📖 Project Overview
 
