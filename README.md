@@ -30,7 +30,7 @@ This research helped identify the needs, challenges, and motivations of busy pro
 UI/UX Designer | Graphic Designer
 
 
-# 🛒DECODELABS TASK 3
+# 🛒DECODELABS TASK 2
 Low-Fidelity E-Commerce Homepage Wireframe
 
 ## 📖 Project Overview
@@ -136,7 +136,7 @@ https://www.figma.com/file/XXXXXXXX
 UI/UX Designer
 
 Created as part of the DecodeLabs UI/UX Internship Task.
-# 🎨 UI/UX Design Project TASK 3
+# 🎨DECODELAB TASK 3 
 
 ## 📖 Project Overview
 
