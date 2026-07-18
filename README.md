@@ -28,3 +28,109 @@ This research helped identify the needs, challenges, and motivations of busy pro
 ## 👩‍💻 Author
 **Mehreen**  
 UI/UX Designer | Graphic Designer
+
+# 🛒 Low-Fidelity E-Commerce Homepage Wireframe
+
+## 📖 Project Overview
+
+This project is a Low-Fidelity Wireframe for an E-Commerce Homepage created in Figma. The wireframe focuses on layout structure, user flow, content hierarchy, and navigation before applying visual design.
+
+---
+
+## 🎯 Project Objective
+
+The objective of this project is to design a simple and user-friendly homepage that helps users easily browse products, explore categories, and complete their shopping journey.
+
+---
+
+## 🛠️ Design Tool
+
+- Figma
+
+---
+
+## 📱 Wireframe Features
+
+- Announcement Bar
+- Navigation Bar
+- Hero Section
+- Call-to-Action Button
+- Featured Products
+- Shop by Categories
+- Promotional Offer Banner
+- Customer Testimonials
+- Newsletter Subscription
+- Footer with Quick Links
+
+---
+
+## 🧩 User Flow
+
+1. User lands on the homepage.
+2. Browses featured products.
+3. Explores product categories.
+4. Views promotional offers.
+5. Reads customer reviews.
+6. Subscribes to the newsletter.
+7. Continues shopping.
+
+---
+
+## 🎨 Design Principles
+
+- Low-Fidelity Wireframe
+- Simple Layout
+- Clear Information Hierarchy
+- Easy Navigation
+- User-Centered Design
+- Responsive Structure
+
+---
+
+## 📂 Project Structure
+
+```
+Low-Fidelity-Ecommerce/
+│
+├── README.md
+├── Homepage-Wireframe.png
+└── Figma File.fig
+```
+
+---
+
+## 📸 Project Preview
+
+Upload your wireframe image as **Homepage-Wireframe.png** and it will appear below.
+
+![Homepage Wireframe](Homepage-Wireframe.png)
+
+---
+
+## 🚀 Prototype
+
+Paste your Figma Prototype Link here.
+
+Example:
+
+https://www.figma.com/file/XXXXXXXX
+
+---
+
+## 📚 Learning Outcomes
+
+- Creating Low-Fidelity Wireframes
+- Designing User Flows
+- Improving Information Hierarchy
+- Building Responsive Layouts
+- Applying UX Design Principles
+
+---
+
+## 👩‍💻 Author
+
+**Mehreen**
+
+UI/UX Designer
+
+Created as part of the DecodeLabs UI/UX Internship Task.
